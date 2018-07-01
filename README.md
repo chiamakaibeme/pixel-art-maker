@@ -1,6 +1,10 @@
 # pixel-art-maker 
-An app for creating pixel art
 
-This app is a Udacity project on Front-End course, Lesson 21. 
+Link to app hosted using github pages:- 
+https://chiamakaibeme.github.io/pixel-art-maker/
 
-The app is built using html, css and javaScript. It is used to create great pixel art!
+This is an app for creating pixel art!
+
+The app was created as a Udacity project on Front-End course, Lesson 21. 
+
+It is built using html, css and javaScript. 
